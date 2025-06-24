@@ -1,0 +1,17 @@
+{
+    "name": "asus/ci3_spk_metode_saw",
+    "require": {
+        "dompdf/dompdf": "^3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Asus\\Ci3SpkMetodeSaw\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MIqbalTaruna",
+            "email": "miqbaltaruna32@gmail.com"
+        }
+    ]
+}
